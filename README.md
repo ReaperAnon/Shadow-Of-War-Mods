@@ -89,7 +89,3 @@ Configurable in-game.
 
 [**MinHook**](https://github.com/TsudaKageyu/minhook)
 
-[**Astoria Font**](https://fonts.adobe.com/fonts/astoria)
-
-[**Inconsolata Font**](https://fonts.google.com/specimen/Inconsolata)
-
