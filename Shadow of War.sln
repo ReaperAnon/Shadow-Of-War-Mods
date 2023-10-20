@@ -1,0 +1,119 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multi Equip Skills", "Multi Equip Skills\Multi Equip Skills.vcxproj", "{29E6EAFE-F4CB-4661-9C41-28454D80A93D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uruk Intel", "Uruk Intel\Uruk Intel.vcxproj", "{564C3255-5E6E-4E65-B9EF-7732484AFC2B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mounted Might Multiplier", "Mounted Might Multiplier\Mounted Might Multiplier.vcxproj", "{D72FA15D-52FC-4B29-9C2B-98C2ACB3FD06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Improved Ice Storm", "Improved Ice Storm\Improved Ice Storm.vcxproj", "{0E21D613-E8B0-4234-8AF1-5BE2841AA056}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elven Speed", "Elven Speed\Elven Speed.vcxproj", "{9D9B6328-6068-498A-9D6A-949C354C2DC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cheat Hotkeys", "Cheat Hotkeys\Cheat Hotkeys.vcxproj", "{7137ACEE-202C-48C6-8E15-B61A93D8F61D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skill Level Requirements", "Skill Level Requirement\Skill Level Requirement.vcxproj", "{922EACCE-9B9A-4CF5-BDA8-69E6AF908997}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skill Prerequisites", "Skill Prerequisites\Skill Prerequisites.vcxproj", "{8ED6E528-F175-4C41-862E-EDD8D14AE3BB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skill Story Locks", "Skill Story Locks\Skill Story Locks.vcxproj", "{43807C6C-D9B3-43E0-8558-29C60A23FB14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Autocomplete Item Challenges", "Autocomplete Item Challenges\Autocomplete Item Challenges.vcxproj", "{3D73A057-F7A0-41B5-B9A9-3EA2F7161C83}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Indomitable Hitstreaks", "Indomitable Hitstreaks\Indomitable Hitstreaks.vcxproj", "{4D6A61AA-F51F-4279-AEB7-3973CFE7444D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Myrian Multiplier", "Myrian Multiplier\Myrian Multiplier.vcxproj", "{3A0680D7-C905-48D8-ADCB-443FF7301A78}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FOV Extender", "Field of View\Field of View.vcxproj", "{6C91822A-6C4F-4B60-AC9D-DB92EAA5982C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Orc Spawn Rarity", "Orc Spawn Rarity\Orc Spawn Rarity.vcxproj", "{5A082489-4A2F-41CD-A5DE-D12DEDEAFE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E6EAFE-F4CB-4661-9C41-28454D80A93D}.Debug|x64.ActiveCfg = Release|x64
+		{29E6EAFE-F4CB-4661-9C41-28454D80A93D}.Debug|x86.ActiveCfg = Release|x64
+		{29E6EAFE-F4CB-4661-9C41-28454D80A93D}.Release|x64.ActiveCfg = Release|x64
+		{29E6EAFE-F4CB-4661-9C41-28454D80A93D}.Release|x64.Build.0 = Release|x64
+		{29E6EAFE-F4CB-4661-9C41-28454D80A93D}.Release|x86.ActiveCfg = Release|x64
+		{564C3255-5E6E-4E65-B9EF-7732484AFC2B}.Debug|x64.ActiveCfg = Release|x64
+		{564C3255-5E6E-4E65-B9EF-7732484AFC2B}.Debug|x86.ActiveCfg = Release|x64
+		{564C3255-5E6E-4E65-B9EF-7732484AFC2B}.Release|x64.ActiveCfg = Release|x64
+		{564C3255-5E6E-4E65-B9EF-7732484AFC2B}.Release|x64.Build.0 = Release|x64
+		{564C3255-5E6E-4E65-B9EF-7732484AFC2B}.Release|x86.ActiveCfg = Release|x64
+		{D72FA15D-52FC-4B29-9C2B-98C2ACB3FD06}.Debug|x64.ActiveCfg = Release|x64
+		{D72FA15D-52FC-4B29-9C2B-98C2ACB3FD06}.Debug|x86.ActiveCfg = Release|x64
+		{D72FA15D-52FC-4B29-9C2B-98C2ACB3FD06}.Release|x64.ActiveCfg = Release|x64
+		{D72FA15D-52FC-4B29-9C2B-98C2ACB3FD06}.Release|x64.Build.0 = Release|x64
+		{D72FA15D-52FC-4B29-9C2B-98C2ACB3FD06}.Release|x86.ActiveCfg = Release|x64
+		{0E21D613-E8B0-4234-8AF1-5BE2841AA056}.Debug|x64.ActiveCfg = Release|x64
+		{0E21D613-E8B0-4234-8AF1-5BE2841AA056}.Debug|x86.ActiveCfg = Release|x64
+		{0E21D613-E8B0-4234-8AF1-5BE2841AA056}.Release|x64.ActiveCfg = Release|x64
+		{0E21D613-E8B0-4234-8AF1-5BE2841AA056}.Release|x64.Build.0 = Release|x64
+		{0E21D613-E8B0-4234-8AF1-5BE2841AA056}.Release|x86.ActiveCfg = Release|x64
+		{9D9B6328-6068-498A-9D6A-949C354C2DC8}.Debug|x64.ActiveCfg = Release|x64
+		{9D9B6328-6068-498A-9D6A-949C354C2DC8}.Debug|x86.ActiveCfg = Release|x64
+		{9D9B6328-6068-498A-9D6A-949C354C2DC8}.Release|x64.ActiveCfg = Release|x64
+		{9D9B6328-6068-498A-9D6A-949C354C2DC8}.Release|x64.Build.0 = Release|x64
+		{9D9B6328-6068-498A-9D6A-949C354C2DC8}.Release|x86.ActiveCfg = Release|x64
+		{7137ACEE-202C-48C6-8E15-B61A93D8F61D}.Debug|x64.ActiveCfg = Release|x64
+		{7137ACEE-202C-48C6-8E15-B61A93D8F61D}.Debug|x86.ActiveCfg = Release|x64
+		{7137ACEE-202C-48C6-8E15-B61A93D8F61D}.Release|x64.ActiveCfg = Release|x64
+		{7137ACEE-202C-48C6-8E15-B61A93D8F61D}.Release|x64.Build.0 = Release|x64
+		{7137ACEE-202C-48C6-8E15-B61A93D8F61D}.Release|x86.ActiveCfg = Release|x64
+		{922EACCE-9B9A-4CF5-BDA8-69E6AF908997}.Debug|x64.ActiveCfg = Release|x64
+		{922EACCE-9B9A-4CF5-BDA8-69E6AF908997}.Debug|x86.ActiveCfg = Release|x64
+		{922EACCE-9B9A-4CF5-BDA8-69E6AF908997}.Release|x64.ActiveCfg = Release|x64
+		{922EACCE-9B9A-4CF5-BDA8-69E6AF908997}.Release|x64.Build.0 = Release|x64
+		{922EACCE-9B9A-4CF5-BDA8-69E6AF908997}.Release|x86.ActiveCfg = Release|x64
+		{8ED6E528-F175-4C41-862E-EDD8D14AE3BB}.Debug|x64.ActiveCfg = Release|x64
+		{8ED6E528-F175-4C41-862E-EDD8D14AE3BB}.Debug|x86.ActiveCfg = Release|x64
+		{8ED6E528-F175-4C41-862E-EDD8D14AE3BB}.Release|x64.ActiveCfg = Release|x64
+		{8ED6E528-F175-4C41-862E-EDD8D14AE3BB}.Release|x64.Build.0 = Release|x64
+		{8ED6E528-F175-4C41-862E-EDD8D14AE3BB}.Release|x86.ActiveCfg = Release|x64
+		{43807C6C-D9B3-43E0-8558-29C60A23FB14}.Debug|x64.ActiveCfg = Release|x64
+		{43807C6C-D9B3-43E0-8558-29C60A23FB14}.Debug|x86.ActiveCfg = Release|x64
+		{43807C6C-D9B3-43E0-8558-29C60A23FB14}.Release|x64.ActiveCfg = Release|x64
+		{43807C6C-D9B3-43E0-8558-29C60A23FB14}.Release|x64.Build.0 = Release|x64
+		{43807C6C-D9B3-43E0-8558-29C60A23FB14}.Release|x86.ActiveCfg = Release|x64
+		{3D73A057-F7A0-41B5-B9A9-3EA2F7161C83}.Debug|x64.ActiveCfg = Release|x64
+		{3D73A057-F7A0-41B5-B9A9-3EA2F7161C83}.Debug|x86.ActiveCfg = Release|x64
+		{3D73A057-F7A0-41B5-B9A9-3EA2F7161C83}.Release|x64.ActiveCfg = Release|x64
+		{3D73A057-F7A0-41B5-B9A9-3EA2F7161C83}.Release|x64.Build.0 = Release|x64
+		{3D73A057-F7A0-41B5-B9A9-3EA2F7161C83}.Release|x86.ActiveCfg = Release|x64
+		{4D6A61AA-F51F-4279-AEB7-3973CFE7444D}.Debug|x64.ActiveCfg = Release|x64
+		{4D6A61AA-F51F-4279-AEB7-3973CFE7444D}.Debug|x86.ActiveCfg = Release|x64
+		{4D6A61AA-F51F-4279-AEB7-3973CFE7444D}.Release|x64.ActiveCfg = Release|x64
+		{4D6A61AA-F51F-4279-AEB7-3973CFE7444D}.Release|x64.Build.0 = Release|x64
+		{4D6A61AA-F51F-4279-AEB7-3973CFE7444D}.Release|x86.ActiveCfg = Release|x64
+		{3A0680D7-C905-48D8-ADCB-443FF7301A78}.Debug|x64.ActiveCfg = Release|x64
+		{3A0680D7-C905-48D8-ADCB-443FF7301A78}.Debug|x86.ActiveCfg = Release|x64
+		{3A0680D7-C905-48D8-ADCB-443FF7301A78}.Release|x64.ActiveCfg = Release|x64
+		{3A0680D7-C905-48D8-ADCB-443FF7301A78}.Release|x64.Build.0 = Release|x64
+		{3A0680D7-C905-48D8-ADCB-443FF7301A78}.Release|x86.ActiveCfg = Release|x64
+		{6C91822A-6C4F-4B60-AC9D-DB92EAA5982C}.Debug|x64.ActiveCfg = Release|x64
+		{6C91822A-6C4F-4B60-AC9D-DB92EAA5982C}.Debug|x86.ActiveCfg = Release|x64
+		{6C91822A-6C4F-4B60-AC9D-DB92EAA5982C}.Release|x64.ActiveCfg = Release|x64
+		{6C91822A-6C4F-4B60-AC9D-DB92EAA5982C}.Release|x64.Build.0 = Release|x64
+		{6C91822A-6C4F-4B60-AC9D-DB92EAA5982C}.Release|x86.ActiveCfg = Release|x64
+		{5A082489-4A2F-41CD-A5DE-D12DEDEAFE89}.Debug|x64.ActiveCfg = Release|x64
+		{5A082489-4A2F-41CD-A5DE-D12DEDEAFE89}.Debug|x86.ActiveCfg = Release|x64
+		{5A082489-4A2F-41CD-A5DE-D12DEDEAFE89}.Release|x64.ActiveCfg = Release|x64
+		{5A082489-4A2F-41CD-A5DE-D12DEDEAFE89}.Release|x64.Build.0 = Release|x64
+		{5A082489-4A2F-41CD-A5DE-D12DEDEAFE89}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787BD4EE-1632-4BC6-9C47-1C33029AF677}
+	EndGlobalSection
+EndGlobal
