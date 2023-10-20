@@ -13,7 +13,9 @@ Descriptions for each individual mod can be found below.
 ## Installation
 All mods require the [**Middle Earth Mod Loader**](https://github.com/ReaperAnon/Middle-Earth-Mod-Loader).
 
-Download any of the mods you'd like to use from the Releases section [**here**](https://github.com/ReaperAnon/Shadow-Of-War-Mods/releases/tag/1.0.0) and place the contents of the archive (download [7zip](https://www.7-zip.org/a/7z2301-x64.exe) to open the archives if you have no archiving application) into the **"plugins"** folder next to **"ShadowOfWar.exe"** in your game's installation folder. If you don't have a **"plugins"** folder yet, simply **create a new folder and rename it**.
+Download any of the mods you'd like to use from the **Releases** section [**here**](https://github.com/ReaperAnon/Shadow-Of-War-Mods/releases/tag/1.0.0) and place the contents of the archive (download [7zip](https://www.7-zip.org/a/7z2301-x64.exe) to open the archives if you have no archiving application) into the **"plugins"** folder next to **"ShadowOfWar.exe"** in your game's installation folder.
+
+If you don't have a **"plugins"** folder yet, simply **create a new folder and rename it**.
 
 The folder structure should look like this: **"...\steamapps\common\ShadowOfWar\x64\plugins"**
 
