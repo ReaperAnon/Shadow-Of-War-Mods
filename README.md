@@ -2,6 +2,8 @@
 
 ![image](https://github.com/ReaperAnon/Shadow-Of-War-Mods/assets/63963239/73d709e2-ff8b-4cfe-8aad-7d27f80d2369)
 
+### [Support Discord](https://discord.gg/u4zNjc2a)
+
 ### Consider donating if you enjoy my work:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6P3CRK)
 
