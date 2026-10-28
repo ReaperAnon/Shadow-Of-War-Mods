@@ -3,8 +3,10 @@
 // input_processor.h
 bool InputProcessor<ImGuiKey>::ShouldProcessInputs()
 {
-    if (Input::PROCHWND == NULL)
+    if (Input::PROCHWND == NULL || !IsWindow(Input::PROCHWND)) {
+        Input::PROCHWND = NULL;
         EnumWindows(Input::WorkerProc, 0);
+    }
 
     if (GetForegroundWindow() != Input::PROCHWND)
         return false;
@@ -54,7 +56,7 @@ BOOL CALLBACK Input::WorkerProc(HWND hwnd, LPARAM lParam)
 {
     DWORD processID;
     GetWindowThreadProcessId(hwnd, &processID);
-    if (processID == GetCurrentProcessId())
+    if (processID == GetCurrentProcessId() && IsWindowVisible(hwnd) && GetWindow(hwnd, GW_OWNER) == NULL)
     {
         PROCHWND = hwnd;
         return FALSE;
